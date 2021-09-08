@@ -1,5 +1,5 @@
 <p align="center"><img width="80%" src="./docs/signature.png" /></p>
-**If you want to know more about me, welcome to visit my [homepage](http://junbin.xyz).**
+__<font color=#9900FF  size=4>If you want to know more about me, welcome to visit my [homepage](http://junbin.xyz).</font>__
 
 
 
